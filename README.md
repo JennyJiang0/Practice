@@ -1,13 +1,15 @@
-# Practice
+Practice
 samples for Java project
 
 
 problem：
+```
 测试将一个浮点数分解成整数部分和小数部分；
 测试把一个数字字符串变成汉字字符串
+```
 
 code：
-/*
+```
 import java.util.Arrays;
 public class Main {
 		
@@ -58,4 +60,4 @@ public class Main {
 		System.out.println(n2r.toHanStr("90210"));
 	}
 }
-*/
+```
