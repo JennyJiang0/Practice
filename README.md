@@ -7,8 +7,8 @@ problem：
 测试把一个数字字符串变成汉字字符串
 
 code：
+/*
 import java.util.Arrays;
-
 public class Main {
 		
 	/*
@@ -58,3 +58,4 @@ public class Main {
 		System.out.println(n2r.toHanStr("90210"));
 	}
 }
+*/
